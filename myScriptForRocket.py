@@ -1,5 +1,5 @@
 import random
-from rakieta import Rocket, RocketBoard
+from rocket import Rocket, RocketBoard
 
 board = RocketBoard(12)
 
